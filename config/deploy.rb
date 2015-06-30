@@ -1,6 +1,6 @@
 lock '3.4.0'
 
-set :application, 'r-shiny-deploy-with-capistrano-example'
+set :application, 'hello-r'
 set :repo_url, 'git@github.com:minktom/r-shiny-deploy-with-capistrano-example.git'
 
 # Default deploy_to directory is /var/www/my_app_name
